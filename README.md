@@ -3,7 +3,7 @@ kazanabilirsin.org.tr.com.tr
 #include <iostream>
 #include <vector>
 
-// Tahtayı çizme fonksiyonu
+// Tahtayı çizme fonksiyonu 
 void tahta_ciz(const std::vector<char>& tahta) {
     std::cout << "\n";
     std::cout << " " << tahta[0] << " | " << tahta[1] << " | " << tahta[2] << " \n";
